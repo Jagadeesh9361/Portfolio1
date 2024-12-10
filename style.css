@@ -1,0 +1,17 @@
+/* Basic styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #333;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
